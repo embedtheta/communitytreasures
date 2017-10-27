@@ -1,0 +1,386 @@
+[06-Jul-2017 07:06:24 America/Denver] PHP Warning:  require_once(MAILER/smtpservice.php): failed to open stream: No such file or directory in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 3
+[06-Jul-2017 07:06:24 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'MAILER/smtpservice.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 3
+[06-Jul-2017 07:14:12 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 128
+[06-Jul-2017 07:14:12 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 128
+[06-Jul-2017 07:16:42 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 128
+[06-Jul-2017 07:16:42 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 128
+[06-Jul-2017 07:16:52 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 128
+[06-Jul-2017 07:16:52 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 128
+[06-Jul-2017 07:18:33 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 128
+[06-Jul-2017 07:18:33 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 128
+[06-Jul-2017 07:26:02 America/Denver] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting function (T_FUNCTION) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 86
+[06-Jul-2017 07:26:14 America/Denver] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting function (T_FUNCTION) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 86
+[06-Jul-2017 07:26:34 America/Denver] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting function (T_FUNCTION) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 86
+[06-Jul-2017 07:27:14 America/Denver] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting function (T_FUNCTION) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 86
+[06-Jul-2017 07:28:37 America/Denver] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting function (T_FUNCTION) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 86
+[06-Jul-2017 07:31:21 America/Denver] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting function (T_FUNCTION) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 86
+[06-Jul-2017 07:36:41 America/Denver] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting function (T_FUNCTION) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 86
+[06-Jul-2017 07:40:10 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 127
+[06-Jul-2017 07:40:10 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 127
+[06-Jul-2017 07:47:26 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 127
+[06-Jul-2017 07:47:26 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 127
+[06-Jul-2017 07:48:29 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 127
+[06-Jul-2017 07:48:29 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 127
+[06-Jul-2017 07:51:56 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 127
+[06-Jul-2017 07:51:56 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 127
+[06-Jul-2017 07:54:24 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 127
+[06-Jul-2017 07:54:24 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 127
+[06-Jul-2017 07:56:05 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 127
+[06-Jul-2017 07:56:05 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 127
+[06-Jul-2017 08:02:34 America/Denver] PHP Warning:  mail() expects parameter 3 to be string, array given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 125
+[06-Jul-2017 08:02:34 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 129
+[06-Jul-2017 08:02:34 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 129
+[06-Jul-2017 08:02:35 America/Denver] PHP Warning:  substr() expects parameter 1 to be string, array given in /home3/ravebusi/public_html/communitytreasures/MAILER/class.phpmailer.php on line 1501
+[06-Jul-2017 08:02:35 America/Denver] PHP Notice:  Array to string conversion in /home3/ravebusi/public_html/communitytreasures/MAILER/class.phpmailer.php on line 1502
+[06-Jul-2017 08:09:56 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 129
+[06-Jul-2017 08:09:56 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 129
+[06-Jul-2017 08:38:53 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 128
+[06-Jul-2017 08:38:53 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 128
+[06-Jul-2017 08:42:04 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 129
+[06-Jul-2017 08:42:04 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 129
+[06-Jul-2017 08:45:12 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 129
+[06-Jul-2017 08:45:12 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 129
+[06-Jul-2017 08:52:08 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 129
+[06-Jul-2017 08:52:08 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 129
+[07-Jul-2017 04:44:01 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 129
+[07-Jul-2017 04:44:01 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 129
+[07-Jul-2017 06:37:16 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 129
+[07-Jul-2017 06:37:16 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 129
+[07-Jul-2017 07:02:57 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 129
+[07-Jul-2017 07:02:57 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 129
+[07-Jul-2017 07:27:04 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 129
+[07-Jul-2017 07:27:04 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 129
+[10-Jul-2017 03:58:56 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 129
+[10-Jul-2017 03:58:56 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 129
+[10-Jul-2017 06:09:24 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 129
+[10-Jul-2017 06:09:24 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 129
+[10-Jul-2017 07:07:35 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 129
+[10-Jul-2017 07:07:35 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 129
+[10-Jul-2017 07:40:54 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 129
+[10-Jul-2017 07:40:54 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 129
+[10-Jul-2017 08:22:37 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 129
+[10-Jul-2017 08:22:37 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 129
+[13-Jul-2017 05:59:03 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 129
+[13-Jul-2017 05:59:03 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 129
+[13-Jul-2017 05:59:11 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 129
+[13-Jul-2017 05:59:11 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 129
+[13-Jul-2017 05:59:21 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 129
+[13-Jul-2017 05:59:21 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 129
+[14-Jul-2017 07:04:03 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:04:16 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:04:39 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:05:22 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:06:44 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:09:27 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:14:50 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:17:22 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:17:35 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:18:02 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:18:44 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:20:10 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:22:52 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:25:30 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:28:13 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:28:45 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:28:59 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:29:22 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:29:49 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:30:02 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:30:03 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:30:27 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:31:12 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:31:24 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:32:35 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:33:50 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:34:04 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:34:07 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:34:24 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:35:06 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:35:16 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:36:26 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:37:01 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:37:16 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:37:39 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:38:21 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:38:56 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:39:08 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:39:29 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:39:44 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:40:37 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:42:26 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:44:31 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:46:54 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:47:48 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:50:09 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:51:22 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:55:15 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:56:14 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:56:26 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:56:46 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:57:27 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:58:32 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 07:58:52 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 08:00:18 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 08:01:33 America/Denver] PHP Parse error:  syntax error, unexpected 'IF' (T_IF) in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 131
+[14-Jul-2017 08:06:55 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 143
+[14-Jul-2017 08:06:55 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 143
+[14-Jul-2017 08:10:46 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 143
+[14-Jul-2017 08:10:46 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 143
+[14-Jul-2017 08:11:32 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 143
+[14-Jul-2017 08:11:32 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 143
+[14-Jul-2017 08:12:46 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 143
+[14-Jul-2017 08:12:46 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 143
+[14-Jul-2017 08:12:49 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 143
+[14-Jul-2017 08:12:49 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 143
+[14-Jul-2017 08:16:37 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 143
+[14-Jul-2017 08:16:37 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 143
+[14-Jul-2017 08:17:35 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 143
+[14-Jul-2017 08:17:35 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 143
+[14-Jul-2017 08:19:53 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 143
+[14-Jul-2017 08:19:53 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 143
+[14-Jul-2017 08:27:28 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 143
+[14-Jul-2017 08:27:28 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 143
+[14-Jul-2017 08:47:27 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 143
+[14-Jul-2017 08:47:27 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 143
+[14-Jul-2017 08:52:36 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 143
+[14-Jul-2017 08:52:36 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 143
+[14-Jul-2017 08:54:29 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 143
+[14-Jul-2017 08:54:29 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ipn.php on line 143
+[17-Jul-2017 00:57:37 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 145
+[17-Jul-2017 00:57:37 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 145
+[17-Jul-2017 01:18:37 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 144
+[17-Jul-2017 01:18:37 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 144
+[17-Jul-2017 01:50:20 America/Denver] PHP Notice:  Undefined property: PayPal_IPN::$session in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 96
+[17-Jul-2017 01:50:20 America/Denver] PHP Fatal error:  Call to a member function userdata() on a non-object in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 96
+[17-Jul-2017 02:18:51 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 145
+[17-Jul-2017 02:18:51 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 145
+[17-Jul-2017 02:36:23 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 02:36:23 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 02:44:36 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 02:44:36 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 02:50:26 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 02:50:26 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 02:54:34 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 02:54:34 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 04:00:03 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 04:00:03 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 04:01:14 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 04:01:14 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 04:06:33 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 04:06:33 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 04:47:43 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 04:47:43 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 04:50:23 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 04:50:23 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 05:28:21 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 05:28:21 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 06:00:42 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 06:00:42 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 06:03:09 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 06:03:09 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 06:04:37 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 06:04:37 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 06:09:32 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 06:09:32 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 06:11:07 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 06:11:07 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 06:11:45 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 06:11:45 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 06:13:50 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 06:13:50 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 06:42:18 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 06:42:18 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 06:42:18 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 06:42:18 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 06:46:08 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 06:46:08 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 06:50:40 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 06:50:40 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 08:26:20 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 08:26:20 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 08:26:31 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 08:26:31 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 08:26:40 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[17-Jul-2017 08:26:40 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[18-Jul-2017 00:54:40 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[18-Jul-2017 00:54:40 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[18-Jul-2017 01:16:57 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[18-Jul-2017 01:16:57 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[18-Jul-2017 01:40:33 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[18-Jul-2017 01:40:33 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[18-Jul-2017 01:43:56 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[18-Jul-2017 01:43:56 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[18-Jul-2017 01:48:52 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[18-Jul-2017 01:48:52 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[18-Jul-2017 01:52:04 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[18-Jul-2017 01:52:04 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[18-Jul-2017 01:54:14 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[18-Jul-2017 01:54:14 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[18-Jul-2017 01:54:17 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[18-Jul-2017 01:54:17 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[18-Jul-2017 01:57:36 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[18-Jul-2017 01:57:36 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[18-Jul-2017 02:01:38 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[18-Jul-2017 02:01:38 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[18-Jul-2017 04:42:12 America/Denver] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting function (T_FUNCTION) in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 86
+[18-Jul-2017 04:45:11 America/Denver] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting function (T_FUNCTION) in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 86
+[18-Jul-2017 04:46:21 America/Denver] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting function (T_FUNCTION) in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 86
+[18-Jul-2017 04:52:58 America/Denver] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting function (T_FUNCTION) in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 86
+[18-Jul-2017 04:53:16 America/Denver] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting function (T_FUNCTION) in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 86
+[18-Jul-2017 04:55:57 America/Denver] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting function (T_FUNCTION) in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 86
+[18-Jul-2017 04:56:42 America/Denver] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting function (T_FUNCTION) in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 86
+[18-Jul-2017 04:58:40 America/Denver] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting function (T_FUNCTION) in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 86
+[18-Jul-2017 05:01:55 America/Denver] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting function (T_FUNCTION) in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 86
+[18-Jul-2017 05:06:49 America/Denver] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting function (T_FUNCTION) in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 86
+[18-Jul-2017 05:08:18 America/Denver] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting function (T_FUNCTION) in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 86
+[18-Jul-2017 05:09:49 America/Denver] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting function (T_FUNCTION) in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 86
+[18-Jul-2017 05:11:45 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[18-Jul-2017 05:11:45 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[18-Jul-2017 05:14:50 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[18-Jul-2017 05:14:50 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[18-Jul-2017 05:18:35 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 153
+[18-Jul-2017 05:18:35 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 153
+[18-Jul-2017 05:20:59 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 153
+[18-Jul-2017 05:20:59 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 153
+[18-Jul-2017 05:24:32 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[18-Jul-2017 05:24:32 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[18-Jul-2017 05:29:25 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[18-Jul-2017 05:29:25 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[18-Jul-2017 05:39:37 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[18-Jul-2017 05:39:37 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 151
+[18-Jul-2017 09:17:02 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[18-Jul-2017 09:17:02 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[18-Jul-2017 09:18:27 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[18-Jul-2017 09:18:27 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[18-Jul-2017 09:22:47 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[18-Jul-2017 09:22:47 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[18-Jul-2017 09:23:28 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[18-Jul-2017 09:23:28 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[18-Jul-2017 09:26:07 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[18-Jul-2017 09:26:07 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[18-Jul-2017 09:37:44 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[18-Jul-2017 09:37:44 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[18-Jul-2017 09:44:09 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[18-Jul-2017 09:44:09 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[18-Jul-2017 09:53:38 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[18-Jul-2017 09:53:38 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 01:25:10 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 01:25:10 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 01:43:26 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 01:43:26 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 01:43:42 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 01:43:42 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 02:04:25 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 02:04:25 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 02:04:29 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 02:04:29 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 02:04:37 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 02:04:37 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 03:13:57 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 03:13:57 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 03:25:22 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 03:25:22 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 03:25:28 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 03:25:28 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 05:31:30 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 05:31:30 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 05:31:32 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 05:31:32 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 05:31:37 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 05:31:37 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 06:44:54 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 06:44:54 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 07:12:22 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 07:12:22 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 07:19:04 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 07:19:04 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 07:20:38 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 07:20:38 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 07:34:26 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 07:34:26 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 07:50:13 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 07:50:13 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 07:51:22 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 07:51:22 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 08:07:40 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 08:07:40 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 08:10:12 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 08:10:12 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 08:47:44 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[19-Jul-2017 08:47:44 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[20-Jul-2017 03:37:20 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[20-Jul-2017 03:37:20 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[20-Jul-2017 03:42:27 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[20-Jul-2017 03:42:27 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[20-Jul-2017 07:40:58 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[20-Jul-2017 07:40:58 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[20-Jul-2017 07:44:15 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[20-Jul-2017 07:44:15 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[20-Jul-2017 08:06:33 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[20-Jul-2017 08:06:33 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[21-Jul-2017 06:00:10 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[21-Jul-2017 06:00:10 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[21-Jul-2017 06:04:42 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[21-Jul-2017 06:04:42 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[21-Jul-2017 06:13:56 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[21-Jul-2017 06:13:56 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[21-Jul-2017 06:31:14 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[21-Jul-2017 06:31:14 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[21-Jul-2017 06:51:03 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[21-Jul-2017 06:51:03 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[21-Jul-2017 07:09:02 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[21-Jul-2017 07:09:02 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[21-Jul-2017 07:14:12 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[21-Jul-2017 07:14:12 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[21-Jul-2017 07:18:54 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[21-Jul-2017 07:18:54 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[21-Jul-2017 07:21:26 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[21-Jul-2017 07:21:26 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[27-Jul-2017 02:20:21 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[27-Jul-2017 02:20:21 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[27-Jul-2017 02:42:58 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[27-Jul-2017 02:42:58 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[27-Jul-2017 02:45:08 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[27-Jul-2017 02:45:08 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[27-Jul-2017 02:53:03 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[27-Jul-2017 02:53:03 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[27-Jul-2017 02:56:01 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[27-Jul-2017 02:56:01 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[27-Jul-2017 03:05:34 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[27-Jul-2017 03:05:34 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[27-Jul-2017 03:07:42 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[27-Jul-2017 03:07:42 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[27-Jul-2017 03:12:31 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[27-Jul-2017 03:12:31 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[27-Jul-2017 03:16:48 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[27-Jul-2017 03:16:48 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[07-Aug-2017 08:09:55 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[07-Aug-2017 08:09:55 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[07-Aug-2017 08:45:31 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[07-Aug-2017 08:45:31 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[08-Aug-2017 05:26:10 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[08-Aug-2017 05:26:10 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[08-Aug-2017 05:33:33 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[08-Aug-2017 05:33:33 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[08-Aug-2017 07:56:41 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[08-Aug-2017 07:56:41 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[08-Aug-2017 07:57:53 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[08-Aug-2017 07:57:53 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[08-Aug-2017 08:19:15 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[08-Aug-2017 08:19:15 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[01-Sep-2017 06:14:53 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[01-Sep-2017 06:14:53 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[01-Sep-2017 06:19:17 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[01-Sep-2017 06:19:17 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[01-Sep-2017 06:20:20 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[01-Sep-2017 06:20:20 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[01-Sep-2017 06:29:13 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[01-Sep-2017 06:29:13 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[01-Sep-2017 06:32:28 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[01-Sep-2017 06:32:28 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[01-Sep-2017 06:35:26 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[01-Sep-2017 06:35:26 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[01-Sep-2017 06:38:58 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[01-Sep-2017 06:38:58 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[01-Sep-2017 07:05:27 America/Denver] PHP Notice:  Undefined variable: con in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154
+[01-Sep-2017 07:05:27 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/ravebusi/public_html/communitytreasures/ctdemo/ipn.php on line 154

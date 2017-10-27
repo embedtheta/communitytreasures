@@ -1,0 +1,316 @@
+@charset "utf-8";
+/* CSS Document */
+body{padding:0; margin:0; font-family: 'Roboto', sans-serif;}
+.hdrs{ background:#1d5d9a;}
+.wrp {
+    margin: 0 auto;
+    width: 1000px;
+}
+.clear{clear:both;}
+.hdrs .wrp {
+    padding: 10px 0 20px;
+}
+.hdr_btm i8mg{width:100%;}
+
+.hdr_btm {
+    margin: 0 auto;
+    padding: 0 0 10px;
+    text-align: center;
+    width: 90%;
+}
+.hdr_mid{padding:30px 0;}
+.hdr_top {
+    text-align: center;
+	padding:10px 0; 
+}
+.hdr_btm .wrp{ position:relative;}
+
+.imr_tp img {
+    float: left;
+    width: 48%;
+}
+.imr_tp > img:last-child {
+	float:right;
+}
+.hdr_btm > img {
+    width: 100%;
+}
+.brds {
+    border: 4px solid #fe0f84;
+	width:97%;
+}
+.vws_tp > img {
+    display: inline-block;
+    vertical-align: middle;
+    width: 48%;
+}
+.pkse {
+    background: #fdc7eb none repeat scroll 0 0;
+    padding: 40px 0 20px;
+	margin:-90px 0 0;
+
+}
+
+.pkse .wrp > img {
+    float: left;
+}
+
+
+.pkse .wrp > img {
+    float: left;
+    width: 48%;
+}
+.pkse .wrp #frms_signup input[type="text"]{margin-bottom:10px;}
+.pkse .wrp #frms_signup input[type="text"],
+.pkse .wrp #frms_signup input[type="email"] {
+    background: #fff none repeat scroll 0 0;
+    border: 3px solid #a1a3a2;
+    display: block;
+    height: 24px;
+    padding: 5px;
+    width: 96.8%;
+}
+
+form#frms_signup {
+    float: right;
+    width: 48%;
+}
+
+.pkse .wrp #frms_signup input[type="submit"] {
+    clear: right;
+    float: right; 
+    border: 0;
+    display: block;
+    height: 40px;
+    padding: 5px 10px;
+	color:#fff;
+	font-size:18px;
+	line-height:24px;
+	cursor:pointer;
+	font-family: 'Roboto', sans-serif;
+	text-transform:uppercase;
+	border-radius:4px;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ee6db0+0,de1982+37,d50573+63,d3065b+100 */
+background: #ee6db0; /* Old browsers */
+background: -moz-linear-gradient(top, #ee6db0 0%, #de1982 37%, #d50573 63%, #d3065b 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ee6db0), color-stop(37%,#de1982), color-stop(63%,#d50573), color-stop(100%,#d3065b)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #ee6db0 0%,#de1982 37%,#d50573 63%,#d3065b 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #ee6db0 0%,#de1982 37%,#d50573 63%,#d3065b 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #ee6db0 0%,#de1982 37%,#d50573 63%,#d3065b 100%); /* IE10+ */
+background: linear-gradient(to bottom, #ee6db0 0%,#de1982 37%,#d50573 63%,#d3065b 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee6db0', endColorstr='#d3065b',GradientType=0 ); /* IE6-9 */
+}
+.pkse .wrp #frms_signup select{
+	 background: #fff none repeat scroll 0 0;
+    border: 3px solid #a1a3a2;
+    display: block;
+    height: 40px;
+    padding: 5px;
+    width: 100%;
+	margin:10px 0;
+	float:right;
+	
+}
+.hmerk .wrp > img {
+    margin: 0 auto 80px;
+    width: 100%;
+}
+.hmerk .wrp > h3 {
+    color: #646464;
+    font-size: 26px;
+    font-weight: normal;
+    line-height: 30px;
+    width: 73%;
+	font-family: "Roboto",sans-serif;
+}
+
+.vws_tp > img:last-child {
+    width: 33.8%;
+}
+#foot {
+    background: #1d5d9a none repeat scroll 0 0;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
+#foot p {
+    background: rgba(0, 0, 0, 0) url("../images/gbe_logo_g.png") no-repeat scroll 0 0;
+    color: #b7e3ee;
+    font-family: "Roboto",sans-serif;
+    font-size: 20px;
+    height: 31px;
+	margin:0;
+    padding: 19px 0 0 118px;
+}
+#frms_signup > h3{color: #b7e3ee;
+    font-family: "Roboto",sans-serif;
+    font-size: 24px;
+	line-height:30px;
+	text-align:center;
+	color:#000;
+}
+
+.pnk {
+    background: #fdc7eb none repeat scroll 0 0;
+    height: 340px;
+    margin: 0 auto;
+    width: 70%;
+}
+.hair_buty .imr_tp {
+    margin-top: -306px;
+}
+.pnk_cr{
+    background: #F6ECE3 none repeat scroll 0 0;
+    height: 340px;
+    margin: 0 auto;
+    width: 70%;
+}
+.imr_tp {
+    margin: -303px 0 0;
+    overflow: hidden;
+}
+
+.realst .imr_tp > img:last-child {
+    width: 39%;
+}
+.realst .imr_tp > img {
+    width: 57%;
+}
+.hdr_btm.realst {
+    padding-bottom: 10px;
+}
+.hdr_btm h2 {
+    color: #fff;
+    font-family: "Roboto",sans-serif;
+    font-size: 46px;
+    font-weight: 900;
+    line-height: 48px;
+    margin: 0;
+}
+
+.vws_tp > h2 {
+	border-bottom: 92px solid transparent;
+    border-left: 100px solid #097D40;
+    border-top: 92px solid transparent;
+    float: left;
+    height: 0;
+    width: 0;
+}
+.pkse .wrp > h2 {
+	margin-top: 90px;
+    color: #de6aab;
+    float: left;
+    font-size: 60px;
+    font-weight: 500;
+    line-height: 56px;
+    margin-bottom: 0;
+    width: 50%;
+}
+
+.pkse .wrp h2 strong {
+    font-weight: 900;
+}
+.vws_tp_vdo_sec {
+    position: relative;
+}
+.vws_tp_vid_dmo {
+    position: absolute;
+    text-align: center;
+	width:100%;
+}
+.vws_tp_vid_dmo span:hover {
+    background: #ef2e31 none repeat scroll 0 0;
+}
+.vws_tp_vid_dmo span img {
+    padding-left: 0;
+    padding-top: 7px;
+    width: 70%;
+}
+.vws_tp_vid_dmo span {
+    background: rgba(0, 0, 0, 0.4) none repeat scroll 0 0;
+    border-radius: 50%;
+    cursor: pointer;
+    display: block;
+    height: 75px;
+    left: 105px;
+    overflow: hidden;
+    padding: 11px 0 8px 20px;
+    text-align: center;
+    width: 75px;
+	margin:0 auto;
+}
+.vws_tp_vid_dmo > h3 {
+    color: #fff;
+    font-family: times new roman;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 0 20px 50px 10px;
+	text-align:left;
+}
+.vws_tp_vdos_o {
+    float: right;
+    width: 40%;
+}
+.wrp_o {
+    overflow: hidden;
+    position: relative;
+    width: 1138px;
+    z-index: 9;
+}
+.hdrs.heire {
+    background: #d70c78 none repeat scroll 0 0;
+}
+.hair_buty .imr_tp > img {
+    display: inline-block;
+    float: none;
+    margin: 0 3px;
+    vertical-align: top;
+    width: 32.4%;
+}
+.hdrs.foode{ background: #1d6a40 none repeat scroll 0 0;}
+.foot_tst .vws_tp > h2 {
+    background: rgba(0, 0, 0, 0) url("../images/grn_twl_bg.png") no-repeat scroll 0 0;
+	width:542px;
+}
+
+.realst.estates .pnk {
+    height: 400px;
+}
+
+.realst.estates .imr_tp {
+    margin-top: -361px;
+}
+.foot_tst #est_hdn > h2 {
+    background: #097D40 none repeat scroll 0 0;
+}
+.foot_tst #triangle-right {
+    border-bottom: 94px solid transparent;
+    border-left: 100px solid #097D40;
+    border-top: 94px solid transparent;
+    float: left;
+    height: 0;
+    width: 0;
+}
+#est_hdn > h2 {
+    background: #1d5d9a none repeat scroll 0 0;
+    color: #fff;
+    float: left;
+    font-size: 30px;
+    margin: 0;
+    padding: 20px;
+    width: 66%;
+}
+#triangle-right {
+    border-bottom: 94px solid transparent;
+    border-left: 100px solid #1d5d9a;
+    border-top: 93px solid transparent;
+    float: left;
+    height: 0;
+    width: 0;
+}
+.vws_tp #est_hdn {
+    float: left;
+    overflow: hidden;
+    padding: 30px 0 0;
+    width: 56%;
+}

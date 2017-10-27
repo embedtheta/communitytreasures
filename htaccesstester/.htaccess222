@@ -1,0 +1,5 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    #RewriteRule ^.*$ htaccess_tester.php
+	RewriteRule ^(.*)\.html$ $1.php
+</IfModule>

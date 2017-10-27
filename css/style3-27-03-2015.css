@@ -1,0 +1,261 @@
+@charset "utf-8";
+/* CSS Document */
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	background:#000;
+	font:normal 12px/18px Arial, Helvetica, sans-serif;
+}
+html * {
+ outline:none;
+}
+ol, ul, li {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after, q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+a{text-decoration:none;}
+/* ============ homepage css =============== */
+.clear{
+	clear:both; 
+	line-height:0;
+	 font-size:0;
+	 }
+
+/*header section*/
+header{background:#000; height:75px;}
+.hed_inr{width:960px; margin:0 auto;}
+.hed_inr h1{font-family: "Open Sans",sans-serif; font-size:44px; line-height:90px; color:#FFF; text-transform:uppercase; text-align:center;}
+.hed_inr h2{font-family: "Open Sans", sans-serif; font-size:15px; line-height:100px; color:#FFF; text-transform:uppercase; float:right; cursor:pointer;}
+.hed_inr a{color:#FFF;}
+/*header section end*/
+
+
+/*body section*/
+.main-bdy{background:url(../images/bdy-bg.png) center 0 no-repeat; min-height:528px;}
+.body_inr{width:960px; margin:0 auto; background:#000; position:relative; top:105px;}
+.bdylft{width:626px; float:left;}
+.bdylft iframe{ border:1px solid #FFF;}
+.bodyritt{background:#000; width:260px; padding:52px 32px; float:right;  /*border-left: 1px solid #1E1E1E;*/}
+#frnd input[type="text"],#frnd input[type=password], #frnd input[type="email"]{color:#a4a4a4; border:1px solid #a1a1a1;  width:96%; height:29px; margin-bottom:14px; padding:0 4px; font-weight:bold; font-size:16px;}
+
+#frnd input[type="submit"] {
+    background: none repeat scroll 0 0 hsl(0, 100%, 32%);
+    border: 1px solid hsl(0, 89%, 42%);
+    border-radius: 5px;
+    color: hsl(0, 0%, 100%);
+    cursor: pointer;
+    display: block;
+    font-family: "Open Sans",sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 25px;
+    margin-top: 13px;
+    padding: 6px 10px;
+    position: relative;
+    width: 100%;
+    z-index: 0;
+}
+
+
+#frnd input[type="submit"]:hover{background:#CC0C0C;}
+.bodyritt h4{font-family: 'Open Sans', sans-serif; font-size:19px; line-height:22px; color:#FFF; text-align:center; margin-bottom:25px;}
+/*body section end*/
+
+/*body section (signup)*/
+.signup_main-bdy{background:url(../images/bdy-bg-signup.png) center 0  repeat-y; height:auto; margin-bottom:70px}
+.signup_body_inr{width:660px; margin:0 auto; background:#000; position:relative; border:#fff solid 8px; padding-bottom:20px; border-radius:7px;}
+.signup_bdylft{width:100%; text-align:center;}
+.bdylft iframe{ border:1px solid #FFF;}
+.signup_bodyritt{background:#000; width:2100; padding:15px 20px; border-left: 1px solid #1E1E1E; margin-top:20px;}
+.signup_bodyritt h4{font-family: 'Open Sans', sans-serif; font-size:19px; line-height:22px; font-weight:bold; color:#ca6b25; text-align:center; margin-bottom:20px; padding-top:20px;}
+.signup_bodyritt h5{font-family: 'Open Sans', sans-serif; font-size:30px; line-height:22px; font-weight:bold; color:#fff; text-align:center; }
+.input_section{ overflow:hidden;}
+.input_section label{ color:#fff; font-size:17px; float:left; margin-top:}
+.input_section input{ width:72% !important; float:right !important; background:#ccc; color:#666 !important;}
+.input_submit{background:#a20000; display:block; border:1px solid#cc0c0c; font-family: 'Open Sans', sans-serif; font-size:22px; line-height:24px; color:#FFF; margin:0 auto !important; width:auto !important; margin-top:20px !important;} 
+/*body section <signup> end*/
+
+
+/*footer section*/
+footer{background:#000; padding:10px 0; width:100%; left:0; bottom:0; position:fixed;}
+footer p{color:#FFF; font-family: 'Open Sans', sans-serif; font-size:13px; line-height:26px; text-align:center;  display:block; text-transform:uppercase;}
+/*footer section end*/
+
+.login-drop{
+	width:300px;
+	background: rgba(0, 0, 0, 0.8);
+	border:#ccc solid 1px;
+	position:absolute;
+	z-index:999;
+	right:8px;
+	top:65px;
+	border-radius:10px;
+	opacity:0.92;
+
+}
+
+.login-drop:after {
+    background: url(../images/up_arrow.PNG) no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    content: "";
+    height: 8px;
+    position: absolute;
+    right: 144px;
+    top: -9px;
+    width: 15px;
+}
+
+.login-form{
+	padding:10px;
+}
+
+.login-submit{
+	margin-top:15px !important;
+}
+
+.input1{
+	background: url(../images/email.png) 4px 8px no-repeat #fff;
+	color:#8f8f8f !important;
+	padding-left:25px !important;
+	width:89% !important;
+}
+
+.input2{
+	background: url(../images/lock.png) 4px 8px no-repeat #fff;
+	color:#8f8f8f !important;
+	padding-left:25px !important;
+	width:89% !important;
+	height:29px;
+	font-weight:bold;
+	font-size:16px;
+}
+
+.error-msg{
+	color:#F00;
+	text-align:center;
+	font-size:15px;
+	padding-top:10px;
+}
+
+#frnd .form_error{ color:#B90004; text-align:right; font-size:12px;  margin-bottom: 8px;
+    margin-top: -7px; float:right;}
+#frnd select, #frnd textarea {
+    background: none repeat scroll 0 0 hsl(0, 0%, 80%);
+    border: 1px solid hsl(0, 0%, 63%);
+    color: hsl(0, 0%, 40%);
+    float: right;
+    font-weight: bold;
+    height: 45px;
+    margin-bottom: 14px;
+    padding: 7px;
+    width: 73.6%;
+}
+#frnd textarea {
+  height: 100px;
+  width: 71%;
+}
+#frnd .input_section label {
+  color: #f0c714;
+  float: left;
+  font-size: 19px;
+}
+#frnd input[type="file"] {
+  margin-bottom: 1%;
+  width: 58% !important;
+}
+#clothesSize, #clothesColour, #frnd .input_section {
+  color: #fff; 
+  text-align:right;
+}
+#clothesSize input, #clothesColour input,  #frnd input[type="radio"] {
+  float: none !important;
+  width: auto !important;
+}
+.logo-img{
+	width: 578px;
+	height: 58px;
+	content: '';
+	background: url(../images/global-logo.png)no-repeat;
+	margin-top: 20px;
+}
+
+/* subbmit querry*/
+.subbmitq .signup_body_inr{width:626px; margin:0 auto; background:#000; position:relative; padding-bottom:20px; border:none;}
+.subbmitq  #frnd input[type="text"],#frnd input[type=password], #frnd input[type="email"]{color:#a4a4a4; border:1px solid #a1a1a1;  width:96%; height:45px; margin-bottom:14px; padding:0 4px; font-weight:bold; font-size:16px;}
+
+.subbmitq .input_section label {
+    color: #fff;
+    float: left;
+    font-size: 22px;
+}
+.logon{
+	width:250px;
+	height:250px;
+}
+
+.subbmitq .hed_inr h1{font-family: 'Open Sans', sans-serif; font-size:44px; line-height:100px; color:#FFF; text-transform:uppercase; float:none;}
+.sq{background:#000; overflow:hidden; height: auto; text-align:center;}
+.sq .hed_inr h1{ float:none;}
+
+.subbmitq #frnd input[type="submit"]{background:#1884a8; display:block; border:1px solid#37a3c7; font-family: 'Open Sans', sans-serif; font-size:22px; line-height:24px; !important color:#fff; font-weight:bold; width:100%; padding:4px 0; position:relative; z-index:0; behavior: url(PIE.htc); margin-top:13px; cursor:pointer; border-radius:0; height:80px; width:150px; }.subbmitq #frnd input[type="submit"] {
+  background: none repeat scroll 0 0 #a77707;
+  border: 1px solid #bb9b00;
+  border-radius: 0;
+  color: #fff !important;
+  cursor: pointer;
+  display: block;
+  font-family: "Open Sans",sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+  height: 42px;
+  line-height: 24px;
+  margin-bottom: 30px;
+  margin-top: 13px;
+  padding: 4px 0;
+  position: relative;
+  width: 180px !important;
+  z-index: 0;
+  border-radius:7px;
+  behavior: url(PIE.htc);
+}
+.psswd .input_section:nth-child(2) {
+    float: right;
+    width: 43%;
+}
+.psswd .input_section:first-child {float: left; width: 56%;}
+.psswd .input_section label {
+    text-align: left;
+    width: 28%;
+}
+.psswd .input_section:first-child input{ width:50% !important;}
+.psswd .input_section:nth-child(2) input{ width:60% !important;}
+
+
+
+.hed_inr.sigu {
+    width: 704px;
+}
+
+.gbe_log_txt {
+    padding-bottom: 20px;
+}

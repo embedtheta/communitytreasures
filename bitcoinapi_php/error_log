@@ -1,0 +1,13 @@
+[12-Dec-2016 09:09:08 America/Denver] PHP Fatal error:  Call to undefined function run_sql() in /home3/ravebusi/public_html/communitytreasures/communityTreas2/bitcoinapi_php/cryptobox.newpayment.php on line 79
+[12-Dec-2016 09:09:11 America/Denver] PHP Fatal error:  Call to undefined function run_sql() in /home3/ravebusi/public_html/communitytreasures/communityTreas2/bitcoinapi_php/cryptobox.newpayment.php on line 79
+[13-Dec-2016 02:30:27 America/Denver] PHP Notice:  Undefined index: webdev_key in /home3/ravebusi/public_html/communitytreasures/communityTreas2/bitcoinapi_php/cryptobox.callback.php on line 82
+[13-Dec-2016 06:07:06 America/Denver] PHP Notice:  Undefined offset: 1 in /home3/ravebusi/public_html/communitytreasures/communityTreas2/bitcoinapi_php/cryptobox.callback.php on line 87
+[14-Dec-2016 04:20:03 America/Denver] PHP Notice:  Undefined variable: payment_details in /home3/ravebusi/public_html/communitytreasures/bitcoinapi_php/testmail.php on line 18
+[14-Dec-2016 04:22:59 America/Denver] PHP Notice:  Undefined variable: payment_details in /home3/ravebusi/public_html/communitytreasures/bitcoinapi_php/testmail.php on line 18
+[14-Dec-2016 11:53:37 America/Denver] PHP Notice:  Undefined offset: 1 in /home3/ravebusi/public_html/communitytreasures/bitcoinapi_php/cryptobox.callback.php on line 87
+[17-Dec-2016 14:09:54 America/Denver] PHP Notice:  Undefined offset: 1 in /home3/ravebusi/public_html/communitytreasures/bitcoinapi_php/cryptobox.callback.php on line 87
+[19-Dec-2016 04:05:03 America/Denver] PHP Notice:  Undefined offset: 1 in /home3/ravebusi/public_html/communitytreasures/bitcoinapi_php/cryptobox.callback.php on line 87
+[20-Dec-2016 11:09:47 America/Denver] PHP Notice:  Undefined offset: 1 in /home3/ravebusi/public_html/communitytreasures/bitcoinapi_php/cryptobox.callback.php on line 87
+[27-Dec-2016 10:59:43 America/Denver] PHP Notice:  Undefined offset: 1 in /home3/ravebusi/public_html/communitytreasures/bitcoinapi_php/cryptobox.callback.php on line 87
+[13-Jan-2017 09:57:49 America/Denver] PHP Notice:  Undefined offset: 1 in /home3/ravebusi/public_html/communitytreasures/bitcoinapi_php/cryptobox.callback.php on line 87
+[17-Jan-2017 09:45:08 America/Denver] PHP Notice:  Undefined offset: 1 in /home3/ravebusi/public_html/communitytreasures/bitcoinapi_php/cryptobox.callback.php on line 87

@@ -1,0 +1,7 @@
+[14-Dec-2016 05:50:54 America/Denver] PHP Notice:  Undefined variable: form in /home3/ravebusi/public_html/communitytreasures/EmailChecker/index.php on line 192
+[14-Dec-2016 05:50:54 America/Denver] PHP Notice:  Undefined index: WRCF-Name in /home3/ravebusi/public_html/communitytreasures/EmailChecker/index.php on line 246
+[14-Dec-2016 05:50:54 America/Denver] PHP Notice:  Undefined index: WRCF-Email in /home3/ravebusi/public_html/communitytreasures/EmailChecker/index.php on line 251
+[14-Dec-2016 06:47:17 America/Denver] PHP Notice:  Undefined variable: form in /home3/ravebusi/public_html/communitytreasures/EmailChecker/index.php on line 192
+[14-Dec-2016 06:47:17 America/Denver] PHP Notice:  Undefined index: WRCF-Name in /home3/ravebusi/public_html/communitytreasures/EmailChecker/index.php on line 246
+[14-Dec-2016 06:47:17 America/Denver] PHP Notice:  Undefined index: WRCF-Email in /home3/ravebusi/public_html/communitytreasures/EmailChecker/index.php on line 251
+[14-Dec-2016 06:51:53 America/Denver] PHP Notice:  Undefined variable: form in /home3/ravebusi/public_html/communitytreasures/EmailChecker/index.php on line 192

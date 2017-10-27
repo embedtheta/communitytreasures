@@ -1,0 +1,20 @@
+[09-Dec-2016 03:40:26 America/Denver] PHP Notice:  Use of undefined constant CRYPTOBOX_SELCOIN - assumed 'CRYPTOBOX_SELCOIN' in /home3/ravebusi/public_html/communitytreasures/communityTreas2/cryptoapi_php/b.php on line 56
+[09-Dec-2016 03:40:26 America/Denver] PHP Notice:  Undefined index: CRYPTOBOX_SELCOIN in /home3/ravebusi/public_html/communitytreasures/communityTreas2/cryptoapi_php/b.php on line 59
+[09-Dec-2016 03:43:25 America/Denver] PHP Notice:  Use of undefined constant CRYPTOBOX_SELCOIN - assumed 'CRYPTOBOX_SELCOIN' in /home3/ravebusi/public_html/communitytreasures/communityTreas2/cryptoapi_php/b.php on line 56
+[09-Dec-2016 03:43:25 America/Denver] PHP Notice:  Undefined index: CRYPTOBOX_SELCOIN in /home3/ravebusi/public_html/communitytreasures/communityTreas2/cryptoapi_php/b.php on line 59
+[09-Dec-2016 04:05:56 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/ravebusi/public_html/communitytreasures/communityTreas2/cryptoapi_php/paybutton.php on line 77
+[09-Dec-2016 04:06:34 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/ravebusi/public_html/communitytreasures/communityTreas2/cryptoapi_php/paybutton.php on line 77
+[09-Dec-2016 04:07:02 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/ravebusi/public_html/communitytreasures/communityTreas2/cryptoapi_php/paybutton.php on line 77
+[09-Dec-2016 04:07:28 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/ravebusi/public_html/communitytreasures/communityTreas2/cryptoapi_php/paybutton.php on line 77
+[09-Dec-2016 04:13:02 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/ravebusi/public_html/communitytreasures/communityTreas2/cryptoapi_php/paybutton.php on line 77
+[09-Dec-2016 04:14:42 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/ravebusi/public_html/communitytreasures/communityTreas2/cryptoapi_php/paybutton222.php on line 77
+[09-Dec-2016 04:14:57 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/ravebusi/public_html/communitytreasures/communityTreas2/cryptoapi_php/paybutton.php on line 77
+[09-Dec-2016 04:15:12 America/Denver] PHP Notice:  Use of undefined constant CRYPTOBOX_SELCOIN - assumed 'CRYPTOBOX_SELCOIN' in /home3/ravebusi/public_html/communitytreasures/communityTreas2/cryptoapi_php/b.php on line 56
+[09-Dec-2016 04:15:12 America/Denver] PHP Notice:  Undefined index: CRYPTOBOX_SELCOIN in /home3/ravebusi/public_html/communitytreasures/communityTreas2/cryptoapi_php/b.php on line 59
+[09-Dec-2016 04:15:27 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/ravebusi/public_html/communitytreasures/communityTreas2/cryptoapi_php/paybutton222.php on line 77
+[09-Dec-2016 04:21:29 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/ravebusi/public_html/communitytreasures/communityTreas2/cryptoapi_php/paybutton222.php on line 77
+[09-Dec-2016 04:21:31 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/ravebusi/public_html/communitytreasures/communityTreas2/cryptoapi_php/paybutton222.php on line 77
+[09-Dec-2016 04:22:07 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/ravebusi/public_html/communitytreasures/communityTreas2/cryptoapi_php/paybutton222.php on line 78
+[09-Dec-2016 04:22:09 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/ravebusi/public_html/communitytreasures/communityTreas2/cryptoapi_php/paybutton222.php on line 78
+[09-Dec-2016 04:22:10 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/ravebusi/public_html/communitytreasures/communityTreas2/cryptoapi_php/paybutton222.php on line 78
+[09-Dec-2016 04:25:43 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/ravebusi/public_html/communitytreasures/communityTreas2/cryptoapi_php/paybutton222.php on line 78

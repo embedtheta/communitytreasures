@@ -1,0 +1,39 @@
+Here are all details ...
+
+payment_request_date ==>Tue Sep 22 05:35:48 PDT 2015
+
+return_url ==>http://globalblackenterprises.com/gbe_payment/returnUrlTopup
+
+fees_payer ==>EACHRECEIVER
+
+ipn_notification_url ==>http://globalblackenterprises.com/gbe_payment/updatePaymentTopUp
+
+sender_email ==>senabi.test04@gmail.com
+
+verify_sign ==>AiPC9BjkCyDFQXbSkoZcgqH3hpacADZagAOq.sDXiDi6bN3CF7vtG1Su
+
+test_ipn ==>1
+
+transaction ==>Start
+0 ==>USD 50.00
+transaction ==>End
+
+cancel_url ==>http://globalblackenterprises.com/gbe_payment/cancelTopUp
+
+pay_key ==>AP-3YN183179F213760D
+
+action_type ==>PAY
+
+transaction_type ==>Adaptive Payment PAY
+
+tracking_id ==>LCxxQn3b7
+
+status ==>COMPLETED
+
+log_default_shipping_address_in_transaction ==>false
+
+charset ==>windows-1252
+
+notify_version ==>UNVERSIONED
+
+reverse_all_parallel_payments_on_error ==>false

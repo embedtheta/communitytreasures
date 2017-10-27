@@ -1,0 +1,374 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*===================blog page css start=================================*/
+.clear{clear:both; padding:0; margin:0;}
+.blg_dv:nth-child(2n+2) {
+    background: #f3f3f3 none repeat scroll 0 0;
+}
+.blg_dv {
+    background: #e5dedb none repeat scroll 0 0;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding: 15px;
+}
+.authr{}
+.authr p{}
+.authr strong{}
+.short_dsc {
+    margin: 10px 0 15px;
+    overflow: hidden;
+}
+.short_dsc img {
+    border: 1px solid;
+    border-radius: 5px;
+    float: left;
+    margin-right: 10px;
+}
+.share_rdmr {
+    clear: left;
+}
+.blg_dv h3 a {
+    color: #384977;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 20px;
+	text-transform:capitalize;
+}
+.blg_dv h3 {
+    margin-bottom: 5px;
+    padding-bottom: 0;
+}
+.authr strong:first-child {
+    color: #9a1e1e;
+    text-transform: capitalize;
+}
+.short_dsc p{ color:#000;}
+.share_rdmr a{
+	background: #384977 none repeat scroll 0 0;
+    border: 0 none;
+    border-radius: 5px;
+    color: #fff;
+    float: right;
+    padding: 5px 8px;
+    text-align: center;
+    text-transform: uppercase;
+	box-shadow:1px 4px 0 0px #000;
+	top:0;
+	position:relative;
+}
+#psts_frmein input[type="button"]:hover,
+#psts_frmein input[type="submit"]:hover,
+.share_rdmr a:hover {
+    box-shadow: 1px 2px 0 0 #000;
+    top: 2px;
+}
+.shre_ths{ float:left;}
+h1.bgs{
+	border-bottom: 1px solid #fff;
+    color: #9a0e18;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 32px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+	text-transform:uppercase;
+}
+.lefts_side {
+    float: left;
+    width: 616px;
+}
+
+.rights_side {
+    background: #fff none repeat scroll 0 0;
+    border: 2px solid #e4e9ef;
+    float: right;
+    padding: 5px 15px 15px;
+    width: 288px;
+}
+.headerrightform {
+    float: right;
+    padding-top: 73px;
+    width: 670px;
+}
+.recentpostsec {
+    background: #eee none repeat scroll 0 0;
+    border-bottom: 4px double #ccc;
+    margin-bottom: 14px;
+    padding: 10px;
+}
+.recentpostsec > h2 {
+    color: #9a0e18;
+    font-size: 18px;
+    line-height: 20px;
+}
+.pr_pic_na {
+    background: rgba(0, 0, 0, 0.5) none repeat scroll 0 0;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    float: left;
+    margin-left: 33px;
+    margin-top: 33px;
+    padding: 3px;
+    position: relative;
+    width: 190px;
+}
+.hd_sec {
+    height: 270px;
+    position: relative;
+    z-index: 9;
+}
+.hd_sec_in {
+    background: rgba(0, 0, 0, 0) url("../img/blog/header-banner.png") no-repeat scroll 0 0;
+    border: 2px solid #fff;
+    border-radius: 10px;
+    height: 260px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+.pr_pic_na > p {
+    color: #fff;
+    font-size: 16px;
+    line-height: 28px;
+}
+.headerrightform h2 {
+    color: #fff;
+   font-family: 'Roboto', sans-serif;
+    font-size: 38px;
+    line-height: 38px;
+    margin-right: 33px;
+    text-align: right;
+    text-shadow: 1px 2px 3px #000;
+    text-transform: uppercase;
+}
+.headerrightform h2 span {
+    display: block;
+    font-size: 34px;
+    line-height: 32px;
+    text-transform: none;
+}
+.headerrightform h3 {
+    background: rgba(0, 0, 0, 0) url("../img/blog/red-trasparent.png") no-repeat scroll right 0;
+    color: #f2f2f2;
+    display: block;
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    height: 41px;
+    line-height: 41px;
+    padding-right: 33px;
+    text-align: right;
+    text-shadow: 1px 2px 3px #000;
+}
+.top.bggl{height:260px;}
+.bllgs .wrapper {
+    margin: -150px auto 50px;
+    width: 960px;
+}
+.bllgs .white-bg {
+    background: #ffffff none repeat scroll 0 0;
+    border: 2px solid #e4e9ef;
+    padding: 10px 35px 35px;
+}
+.bllgs .main_container{ padding:19px 0 20px;}
+.rightvideosec h3 {
+    color: #9a0e18;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 24px;
+    text-align: center;
+}
+.rightvideosec h3 span {
+    color: #818d94;
+    font-size: 28px;
+    text-shadow: 2px 2px #000;
+}
+.rightvideosec h3 span.white {
+    color: #9a0e18;
+    font-size: 22px;
+    text-shadow: 0 0;
+}
+.rightvideosec a span.left {
+    display: block;
+    float: right;
+    height: 16px;
+    margin-top: 0;
+    width: 15px;
+}
+.rightvideosec a span.right {
+    display: block;
+    float: left;
+    height: 16px;
+    margin-top: 0;
+    width: 15px;
+}
+.rightvideosec a:hover{background:#384977 none repeat scroll 0 0;}
+.rightvideosec a {
+    background: #369;
+    border-radius: 5px;
+    color: #fff;
+    display: block;
+    font: bold 22px/21px Arial,Helvetica,sans-serif;
+    height: 19px;
+    padding: 15px 20px;
+    position: relative;
+    text-transform: uppercase;
+    z-index: 0;
+	text-align:center;
+}
+
+.rightvideosec > img {
+    margin: 0 auto;
+    text-align: center;
+    width: 99.5%;
+}
+.shre_ths span span span {display:none !important;}
+.shre_ths span span {
+    
+    height: 22px;
+    width: 22px;
+}
+.shre_ths span {
+    margin: 0;
+}
+.shre_ths span:nth-child(1) span{background: url("../img/blog/facebook_32.png") no-repeat scroll 0 0;}
+.shre_ths span:nth-child(2) span{background: url("../img/blog/twitter_32.png") no-repeat scroll 0 0;}
+.shre_ths span:nth-child(3) span{background: url("../img/blog/linkedin_32.png") no-repeat scroll 0 0;}
+.shre_ths span:nth-child(4) span{background: url("../img/blog/googleplus_32.png") no-repeat scroll 0 0;}
+.rightvideosec {
+    border-bottom: 4px double #ccc;
+    margin-bottom: 14px;
+    padding-bottom: 20px;
+}
+
+.blog_dtls .short_dsc img {
+    height: auto;
+    margin-bottom: 10px;
+    width: 99%;
+}
+.blog_dtls .blg_dv h3{
+    color: #369;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 20px;
+	text-transform:capitalize;
+}
+.recentpostsec ul li:nth-child(2n+2) a{ background-color:#CCCCCC;}
+.recentpostsec ul li:nth-child(2n+2) a:hover{background:url("../img/blog/ar_hvr.png") no-repeat scroll 8px 10px #bb0100; color:#fff;}
+.recentpostsec ul li a:hover{background: url("../img/blog/ar_hvr.png") no-repeat scroll 8px 10px #bb0100; color:#fff;}
+.recentpostsec ul li a {
+    background: rgba(0, 0, 0, 0) url("../img/blog/ar.png") no-repeat scroll 3px 10px;
+    padding: 3px 3px 3px 14px;
+	transition: all 0.2s ease 0s;
+	text-transform:capitalize;
+	display:block;
+	color:#000;
+}
+
+#psts_frmein input[type="text"] {
+    border: 1px solid #ccc;
+    box-shadow: 2px 5px 0 -3px #999;
+    font-size: 13px;
+    height: 27px;
+    padding-left: 5px;
+    width: 97%;
+}
+#psts_frmein textarea{
+	border: 1px solid #ccc;
+    font-size: 13px;
+    height: 60px;
+    padding-left: 5px;
+    resize: none;
+    width: 99%;
+    box-shadow: 2px 5px 0 -3px #999;
+}
+#psts_frmein input[type="submit"]{background: #384977 none repeat scroll 0 0;
+    border: 0 none;
+    border-radius: 5px;
+    box-shadow: 1px 4px 0 0 #000;
+    color: #fff;
+    padding: 5px 8px;
+    position: relative;
+    text-align: center;
+    text-transform: uppercase;
+    top: 0;
+}
+#psts_frmein input[type="button"] {
+    background: #A20000 none repeat scroll 0 0;
+    border: 0 none;
+    border-radius: 5px;
+    box-shadow: 1px 4px 0 0 #000;
+    color: #fff;
+    padding: 5px 8px;
+    position: relative;
+    text-align: center;
+    text-transform: uppercase;
+    top: 0;
+	margin-left:20px;
+}
+strong.errors {
+    color: #a20000;
+    font-weight: normal;
+	display:none;
+}
+#psts_frmein > p {
+    margin-bottom: 12px;
+}
+.post_frme h3.comment-reply-title > a:hover{ background: #CF685C none repeat scroll 0 0;}
+.post_frme h3.comment-reply-title > a {
+    background: #a20000 none repeat scroll 0 0;
+    color: #fff;
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 34px;
+    text-align: center;
+	margin:20px 0 10px;
+	display:block;
+}
+.btn_cnc{margin-top:15px;}
+.required {
+    color: #f00;
+}
+
+.cmts ul li h3 {
+    font-size: 14px !important;
+    line-height: 16px !important;
+	margin-bottom:0 !important;
+}
+.cmts li:nth-child(2n+1) {
+    background: #ccc none repeat scroll 0 0;
+}
+.cmts li {
+    margin-bottom: 10px;
+    padding: 5px;
+}
+.cmts {
+    margin-top: 20px;
+}
+.mles{width:48%; float:right;}
+.nmes {
+    float: left;
+    width: 48%;
+}
+.new-pagi{text-align:center;}
+.new-pagi a:hover{background: #9a0e18;}
+.new-pagi a {
+    background: #384977;
+    border-radius: 2px;
+    color: #fff;
+    display: inline-block;
+    margin: 0 5px;
+    padding: 0 5px;
+}
+.active-page {
+    background: #9a0e18;
+    border-radius: 2px;
+    color: #fff;
+    display: inline-block;
+    padding: 0 5px;
+}
+
+
+/*===================blog convert page css end=================================*/

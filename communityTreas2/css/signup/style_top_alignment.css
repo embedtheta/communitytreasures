@@ -1,0 +1,500 @@
+@charset "utf-8";
+/* CSS Document */
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+
+@font-face {
+    font-family: 'strasuaregular';
+    src: url('fonts/Strasua-webfont.eot');
+    src: url('fonts/Strasua-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Strasua-webfont.woff2') format('woff2'),
+         url('fonts/Strasua-webfont.woff') format('woff'),
+         url('fonts/Strasua-webfont.ttf') format('truetype'),
+         url('fonts/Strasua-webfont.svg#strasuaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body {font: normal 12px/18px Arial, Helvetica, sans-serif;}
+html * {
+	outline: none;
+}
+ol, ul, li {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after, q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+a {
+	text-decoration: none;
+}
+
+.clear {
+	clear: both;
+	line-height: 0;
+	font-size: 0;
+}
+
+#wrap {
+    margin: 0 auto;
+    width: 1000px;
+}
+.bdy_sec {
+    /*min-height: 738px;*/
+}
+.bdy_lft h2 {
+    color: #fff;
+    font-size: 59px;
+    font-weight: bold;
+    line-height: 64px;
+    margin-bottom: 70px;
+	font-family: 'Roboto', sans-serif;
+}
+.bdy_lft {overflow:hidden;}
+.bdy_lft h2 strong{ display:block; font-size:26px; line-height:40px; color:#539ea3; font-family: 'Roboto', sans-serif;}
+
+.bdy_right {
+    padding: 80px 0 50px;
+	overflow:hidden;
+	clear:both;
+}
+.logo_sec {
+    text-align: center;
+	margin:36px 0;
+}
+.bdy_right img{}
+.bdy_right p {
+    color: #1f9192;
+    font-family: times new roman;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 30px;
+    padding: 43px 0 0;
+}
+.bdy_right h1 {
+    color: #c4c065;
+    font-size: 36px;
+    line-height: 38px;
+}
+
+#signupfrm > strong {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.1);
+    border-radius: 7px 7px 0 0;
+    color: #fff;
+    display: block;
+    font-family: "Roboto",sans-serif;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 26px;
+    padding: 3px 3px 3px 5px;
+    width: 70%;
+	font-weight:normal;
+}
+#signupfrm {}
+.frm_in {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.1);
+    border-radius: 0 5px 5px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+.signup {
+    margin-bottom: 20px;
+	float:right;
+	width:310px;
+}
+.vdos {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    float: left;
+    left: 40px;
+    margin: 0;
+    padding: 5px 5px 0;
+    position: relative;
+    width: 350px;
+	height:317px;
+}
+.mendorsip .vdos{height:311px;}
+.gbe_health #wrap{padding:0 61px;}
+.vdos_o {
+	background: repeat scroll 0 0 rgba(0, 0, 0, 0.3);
+    height: 322px;
+    width: 322px;
+    float: left;
+    margin: 0 0 0 60px;
+	border-radius:7px;
+}
+.vdos iframe {
+    width: 100%;
+	height:98%;
+}
+.vid_dmo span:hover {
+    background: #EF2E31;
+}
+.vid_dmo span {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.4);
+    border-radius: 50%;
+    display: block;
+    height: 75px;
+    overflow: hidden;
+    padding: 11px 0 8px 20px;
+    text-align: center;
+    width: 75px;
+	position:absolute;
+	left:105px;
+	cursor:pointer;
+}
+/*.vid_dmo {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.5);}*/
+.vid_dmo {
+    position: relative;
+    text-align: center;
+}
+
+.vid_dmo > h3 {
+    color: #fff;
+    font-family: times new roman;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 44px 0 65px;
+}
+.frm_in input[type="email"], #signupfrm input[type="text"] {
+    border: 0 none;
+    display: block;
+    font-size: 16px;
+    height: 35px;
+    margin: 0 0 4px;
+    padding: 3px;
+    width: 98.5%;
+	color:#25369c;
+	border-radius:3px;
+}
+.frm_in select{
+    border: 0 none;
+    display: block;
+    font-size: 16px;
+    height: 35px;
+    margin: 0 0 4px;
+    padding: 3px;
+    width: 72%;
+	color:#89a4db;
+	border-radius:3px;
+	float:left;
+}
+.slc_sub {
+    margin: 0;
+    overflow: hidden;
+    padding: 0 !important;
+}
+#signupfrm input[type="submit"] {
+    background: #19a1ce;
+    border: 0 none;
+    border-radius: 5px;
+    display: block;
+    float: right;
+    font-size: 18px;
+    line-height: 35px;
+	height:35px;
+    width: 27%;
+	cursor:pointer;
+	color:#fff;
+}
+.gbe_health #signupfrm input[type="submit"]:hover,
+#signupfrm input[type="submit"]:hover, #signupfrm input[type="reset"]:hover{ background:none repeat scroll 0 0 rgba(41, 108, 186, 0.8);}
+#signupfrm input[type="reset"] {
+    background: rgba(0,0,0,0.2);
+    border: 0 none;
+    border-radius: 5px;
+    display: block;
+    float: right;
+    font-size: 18px;
+    line-height: 34px;
+	margin-right:10px;
+	cursor:pointer;
+    width: 40%;
+	color:#fff;
+}
+
+#foot{background: none repeat scroll 0 0 #1b646a; width:100%; position:absolute; bottom:0;}
+#foot p{color:#b7e3ee; background:url(images/gbe_logo_g.png) 0 0 no-repeat; height:31px; padding:19px 0 0 120px; font-size:20px; font-family: 'Roboto', sans-serif;}
+
+
+
+
+
+
+
+/*gambi whit section css*/
+body.gambi_whit{background: url(images/wit_bg.png) center 0 no-repeat #fff !important;}
+.gambi_whit #signupfrm > strong{background:#0318ff; border:3px solid #0318ff;}
+.gambi_whit .frm_in {background:#0318ff;}
+
+.gambi_whit .bdy_lft h2 {
+    color: #0318ff;
+    font-size: 30px;
+	margin-bottom:0px;
+	font-family:times new roman;
+	float:left;
+	padding:20px 0 0 0;
+}
+.top_txt {
+    float: left;
+}
+.gambi_whit .rit_txt{ float:left;}
+.gambi_whit .bdy_sec {
+    height: 620px;
+}
+.gambi_whit .bdy_lft h3 {
+    color: #ff433c;
+    font-size: 22px;
+    line-height: 24px;
+	padding:37px 82px 0 0;
+	 font-family: times new roman;
+	 float:right;
+}
+.rit_txt strong {
+    background: none repeat scroll 0 0 rgba(38, 59, 200, 0.8);
+    border: 1px solid #ccc;
+    color: #fff;
+    display: block;
+    margin-bottom: 2px;
+    padding: 5px 8px;
+	font-size:18px;
+	font-family:times new roman;
+}
+.gambi_whit .vdos_o {
+    margin-left:95px;
+}
+.gambi_whit .bdy_right p {
+    padding-top: 0;
+}
+.volntries #foot,
+.gambi_bze #foot,
+.gambi_whit #foot {
+    background: none repeat scroll 0 0 #0318ff;
+}
+.gambi_whit #foot p{color:#b7e3ee; background:url(images/wt_gbe_logo.png) 0 0 no-repeat; height:32px; padding:19px 0 0 120px; font-size:20px; font-family: 'Roboto', sans-serif;}
+
+
+
+/*gambi health section css*/
+body.gbe_health{ background:url(images/gbe_health.png) 0 0 no-repeat; background-size:cover;}
+.gbe_health #signupfrm > strong{background:#549fa5; border:3px solid #549fa5;}
+.gbe_health .frm_in {background:#549fa5;}
+.gbe_health .logo_sec {margin: 80px 0;}
+
+.gbe_health .bdy_right {
+}
+.gbe_health .vdos{overflow:hidden;}
+.gbe_health .vdo_txt {
+    float: left;
+}
+.gbe_health .vdo_sec {
+}
+.gbe_health .vdo_txt h3 {
+    color: #002f9c;
+    font-size: 30px;
+    line-height: 50px;
+	text-transform:uppercase;
+	font-weight:bold;
+	font-family: 'strasuaregular';
+	margin-top:-10px;
+}
+
+.gbe_health .bdy_lft h2{font-size:42px;}
+/*.gbe_health .bdy_sec {
+    height: 620px;
+}*/
+.gbe_health #foot p{color:#b7e3ee; background:url(images/helth_logo.png) 0 0 no-repeat;}
+
+.gbe_health #signupfrm input[type="submit"] {background: none repeat scroll 0 0 #0e595f;}
+
+
+
+
+/*gambi health section css*/
+
+body.gambi_bze{background:/*url("images/bzz_bg.png") no-repeat scroll 11% 0 */#fff;}
+
+#foot #wrap {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    min-height: inherit;
+}
+
+.gambi_bze #wrap {background:url("images/bzz_bg.png") no-repeat scroll left 70%/*min-height: 738px;*/;}
+.gambi_bze .logo_sec {
+    margin:2px 0;
+    text-align: left;
+}
+.gambi_bze #signupfrm > strong{background:#0318ff; border:3px solid #0318ff;}
+.gambi_bze .frm_in {background:#0318ff;}
+.gambi_bze #signupfrm input[type="submit"] {background: none repeat scroll 0 0 #7a8fff;}
+.gambi_bze .bdy_lft h2 {
+    color: #0318ff;
+    font-family:times new roman;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 34px;
+    margin-bottom: 10px;
+}
+.gambi_bze .vdos {left:252px;}
+
+.gambi_bze .vdos_o {
+    margin-left:240px;
+	background:none repeat scroll 0 0 rgba(0, 0, 0, 0.5);
+}
+.gambi_bze .bdy_lft p{
+    color: #ff433c;
+    font-family: times new roman;
+    font-size: 22px;
+    line-height: 24px;
+}
+
+.gambi_bze #foot p{color:#b7e3ee; background:url(images/wt_gbe_logo.png) 0 0 no-repeat;}
+
+.gambi_gr .bdy_lft h2{float:left; margin:0; padding-top:30px;}
+.gambi_gr .logo_sec {
+	margin:36px 0 0;
+}
+.gambi_gr .vdos {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    margin: 0;
+    padding: 10px 10px 5px;
+	left:0;
+	width:470px;
+	height:300px;
+}
+.gambi_gr #wrap {
+    margin: 0 auto;
+    width: 960px;
+}
+.gambi_gr .logo_sec img {
+    padding-left: 160px;
+}
+
+
+.lggol {
+    float: right;
+    left: -51px;
+    position: relative;
+}
+
+#bssns {
+    float: left;
+}
+.gambi_bze .bdy_right{padding-top:0;}
+.gambi_bze .bdy_lft {
+    padding-top: 10px;
+}
+.gambi_whit .vdos {
+    left: 70px;
+}
+.mendorsip .bdy_lft h2 strong{text-transform:uppercase; color: #1b646a;}
+.mendorsip .vdo_txt strong {
+    color: #fff;
+    display: block;
+    font-family: "Roboto",sans-serif;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 28px;
+    padding-bottom: 25px;
+}
+.mendorsip .vdo_txt {
+    float: left;
+}
+.error {
+    color: #b10000;
+}
+body.mendorsip{background:url("images/med_bg.png") no-repeat scroll center top #71cbd3; background-size:cover;}
+.mendorsip .bdy_sec{background:url("images/grp_img.png") no-repeat scroll right top rgba(0, 0, 0, 0);}
+.mendorsip .vid_dmo {
+    height: 315px;
+}
+.mendorsip .vid_dmo > h3{padding-top:40px;}
+.mendorsip .vdos_o{ margin-left:70px; height:316px;}
+/*.med_inr{ background:none repeat scroll 0 0 rgba(90, 194, 200, 0.8); min-height:100%;}*/
+
+
+.vdo_txt {
+    float: left;
+}
+body.volntries {background:url("images/vol_bg.png") no-repeat scroll center 70px #ebe82b;}
+body.gambi_gr{background:#71cbd3;}
+.vdo_txt ul{padding-top:20px;}
+.vdo_txt li {
+    background: url("images/bulat.png") no-repeat scroll 0 6px rgba(0, 0, 0, 0);
+    font-size: 16px;
+    line-height: 18px;
+    padding: 0 0 10px 14px;
+	font-family: "Roboto",sans-serif;
+	font-weight:500;
+	color:#757316;
+}
+
+.volntries .bdy_lft strong {
+    color: #3b53a3;
+    font-size: 32px;
+    padding-top: 10px;
+    text-transform: uppercase;
+}
+
+.volntries .vdo_txt > p {
+    color: #4e4e44;
+    font-family: "Roboto",sans-serif;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: -5px;
+    padding-top: 0;
+}
+.volntries .vdos_o {
+    height: 263px;
+    margin: 0 0 0 40px;
+    width: 267px;
+}
+
+.volntries .signup {
+    width: 260px;
+}
+.volntries .vid_dmo span{left:85px;}
+.volntries .bdy_lft h2 {
+    color: #3b53a3;
+    font-size: 82px;
+    line-height: 90px;
+}
+.volntries .frm_in input[type="email"], .volntries #signupfrm input[type="text"] {height:25px;}
+
+.volntries .vid_dmo > h3 {
+    padding: 36px 0 40px;
+}
+.volntries #signupfrm input[type="submit"]{font-size:16px;}
+.volntries .vdos iframe {
+
+}
+.volntries .vdos {
+    height: 260px;
+    left: 40px;
+    width: 267px !important;
+}
+.volntries .bdy_right{ padding-top:0;}

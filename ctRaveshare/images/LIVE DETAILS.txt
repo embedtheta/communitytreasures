@@ -1,0 +1,440 @@
+https://www.communitytreasures.co/bitcoinapi_php/testmail.php
+https://www.communitytreasures.co/EmailChecker/index.php
+http://wazobiamail.com/EmailChecker/
+
+###############
+https://gourl.io/info/memberarea/My_Account.html
+https://gourl.io/editrecord/coin_boxes/0#form
+username: otizfangel@googlemail.com
+Password: Angelz777
+
+[08-12-2016 20:54:37] Angel: bitx.co.za
+[08-12-2016 20:54:51] Angel: otizfangel@gmail.com
+[08-12-2016 20:54:59] Angel: Angelz777
+#############
+GMAIL:
+ctrev.senabi@gmail.com
+cogito123@
+#########################################  
+webmail
+user name : subhendu.das@cogitosoftware.in
+Password  : 9_?(5LJfrmCvsv>
+url : https://login.bluehost.com/cgi/webmail
+
+https://www.coincorner.com/Deposit
+/Deposit
+Sonjataggiasco@hotmail.com
+barbapapa2016
+########################################
+
+http://192.168.2.160/ctRaveshare/
+otizfangel@gmail.com
+123456
+#############################
+http://www.bluehost.com/
+bluehost details
+ID : ravebusi
+Pass : jOmkl&g*\agyn4m
+
+
+DB:ravebusi_gbe
+UserName: ravebusi_master
+Password: dhT!M%y)MQQ6
+
+DB:ravebusi_democt
+UserName: ravebusi_democt
+Password: Server12#
+#############
+#######################################
+Cpanel of http://senabidemoportal.com
+https://69.64.68.63:2083
+Username: senabidemo
+Password: 5SH$xTEg{3oN
+
+#########################################  
+webmail
+user name : subhendu.das@cogitosoftware.in
+Password  : 9_?(5LJfrmCvsv>
+url : https://login.bluehost.com/cgi/webmail
+
+########################################
+#################################  14-12-2016 ######################
+http://communitytreasures.co/signup/cronRegistrationThroughBitcoin
+https://www.coincorner.com/Login
+sonjataggiasco@hotmail.com
+barbapapa2016
+
+DEMO LINK:
+https://communitytreasures.co/
+USERNAME: muhammadyousaf.leo@gmail.com
+PASSWORD: ZXCV80497401
+
+CTREVSHARE CREDENTIAL:
+http://communitytreasures.co/ctRaveshare/
+otizfangel@gmail.com
+123456
+
+
+
+DROP TABLE 
+`gbe_mass_details_copy_9_10_2015`,
+ gbe_mass_details_copy_10_10_2015`, 
+`gbe_signup_page_details_22_9_2015`, 
+`productmenucontent_copy`, 
+`userinfo_10_10_2015`, 
+`userinfo_copy_9_10_2015`, 
+`user_general_type_copy_27_10_2015`, 
+`user_raveshare_type_copy`;
+
+
+TRUNCATE `afro_order_detail`;
+TRUNCATE `afro_payment`;
+TRUNCATE `amount_transfer`;
+TRUNCATE `my_current_account`;
+TRUNCATE `my_current_account_details`;
+TRUNCATE `orderdetails`;
+TRUNCATE `payment`;
+TRUNCATE `vip_mass_details`;
+TRUNCATE `vip_rave_join_invitation`;
+TRUNCATE `vip_userinfo`;
+TRUNCATE `userinfo`;
+TRUNCATE `user_general_type`;
+TRUNCATE `my_current_account`;
+TRUNCATE `my_current_account_details`;
+
+
+TRUNCATE `raveCapChk`;
+TRUNCATE `raveTransactionLog`;
+TRUNCATE `rave_companyAccount`;
+TRUNCATE `rave_cycle`;
+TRUNCATE `rave_NextCycleUser`;
+TRUNCATE `rave_payment`;
+TRUNCATE `rave_referralDetail`;
+TRUNCATE `rave_share`;
+TRUNCATE `rave_userinfo`;
+TRUNCATE `user_general_type`;
+TRUNCATE `user_raveshare_type`;
+
+##################  LIVE PROCESS 13-12-2016 #############
+http://communitytreasures.co/signup/importHundredDummyUser
+1. crypto_payments
+
+http://communitytreasures.co/communityTreas2/signup/cronRegistrationThroughBitcoin
+
+##############################  15-12-2016 ##################################################
+http://communitytreasures.co/signup/testcronRegistrationThroughBitcoin
+http://communitytreasures.co/signup/testcronRegistrationThroughBitcoin
+2139
+
+
+########################
+
+1. need to redirect to landing page
+2. we need to hide the dashboard and youtube video
+3. Account Details
+
+
+https://www.communitytreasures.co/myaccount
+Array
+(
+    [uID] => 1
+    [referarID] => 0
+    [firstName] => Angel 
+    [lastName] => Frences
+    [userName] => Angel.Frences.1
+    [emailID] => otizfangel@gmail.com
+    [password] => 123456
+    [phone] => 9432879516
+    [gender] => 
+    [occupation] => 
+    [address] => 
+    [city] => 3
+    [state] => 
+    [country] => 
+    [zip] => 
+    [currency] => 2
+    [webUrl] => 
+    [profile] => 
+    [paypalAC] => 
+    [switchOnPayment] => 0
+    [mssLevelUpPayment] => 0
+    [tenDollerPayment] => 0
+    [afrooPaymentStatus] => 0
+    [skypeID] => 
+    [email_send_status] => 0
+    [userType] => FOUNDERS
+    [userLevel] => 0
+    [status] => 1
+    [created_date] => 2016-12-14 10:28:59
+    [facebookLink] => 
+    [myBlogger] => 
+    [twitterLink] => 
+    [youTubeUrl] => 
+    [forWebsite] => 2
+)
+SELECT rave_userinfo.firstName,rave_userinfo.lastName ,rave_userinfo.emailID FROM `rave_userinfo`
+ ORDER BY `uID` DESC
+
+
+SELECT * FROM rave_userinfo,`user_raveshare_type` WHERE rave_userinfo.uID=`user_raveshare_type`.user_id AND user_raveshare_type.`raveType` = 'Founder'
+
+rdsinfo@earthlink.net
+rdsinfo@earthlink.net  RAVE02328287  
+
+SELECT `rave_userinfo`.*, `city`.`city` cityName, `city`.`id` city_id, `country`.`country_id`,
+ `country`.`name` countryName FROM (`rave_userinfo`) LEFT JOIN `user_raveshare_type` 
+ON `user_raveshare_type`.`user_id`=`rave_userinfo`.`uID` LEFT JOIN `city` 
+ON `city`.`id`=`rave_userinfo`.`city` AND city.is_active=1 LEFT JOIN `country` 
+ON `country`.`country_id`=`rave_userinfo`.`country` AND country.status=1 
+WHERE `rave_userinfo`.`emailID` = 'rdsinfo@earthlink.net' 
+
+
+<a class="snt_ml" href="<?php echo $signUpPaymentLink; ?>" target="_blank"> Please click here to Pay and activate your membership.</a>
+
+
+http://communitytreasures.co/signup/bulkRegistrationtoAllReferrerById
+################
+rdsinfo@earthlink.net (3,2412)
+3 -1
+######
+http://communitytreasures.co/ctRaveshare/message
+ctpayday@earthlink.net | RAVE60176659
+12-13
+2431-3
+
+##########
+chris.basics@gmail.com  77777 RAVE85299678
+5--0
+2416--0
+######
+shannonkauble@gmail.com
+10--0
+2416-0
+
+######
+thenutribar@gmail.com
+143--73
+2698--0
+#######
+acesionyte@gmail.com
+14--64
+2440--0
+##############
+karen.creasey@live.co.uk
+5005---0
+
+#########################  16-12-2016 #################
+
+acesionyte@gmail.com
+karen.creasey@live.co.uk
+thenutribar@gmail.com  ----
+shannonkauble@gmail.com ---- 
+chris.basics@gmail.com --- RAVE85299678
+ctpayday@earthlink.net --- 
+rdsinfo@earthlink.net  -- 
+
+Array
+(
+    [0] => Array
+        (
+            [uID] => 1
+            [referarID] => 0
+            [parentId] => 0
+            [raveType] => 
+            [firstName] => Angel 
+            [lastName] => Frences
+            [userName] => Angel.Frences.1
+            [emailID] => otizfangel@gmail.com
+            [password] => 123456
+            [phone] => 9432879516
+            [gender] => 
+            [occupation] => 
+            [address] => 
+            [city] => 3
+            [state] => 
+            [country] => 
+            [zip] => 
+            [currency] => 2
+            [webUrl] => 
+            [profile] => 
+            [paypalAC] => 
+            [switchOnPayment] => 0
+            [mssLevelUpPayment] => 0
+            [tenDollerPayment] => 0
+            [afrooPaymentStatus] => 1
+            [skypeID] => 
+            [email_send_status] => 0
+            [userType] => FOUNDERS
+            [userLevel] => 2
+            [status] => 1
+            [created_date] => 2016-12-14 10:29:00
+            [confirmStatus] => 2
+            [confirmedOn] => 2016-12-14 10:28:59
+            [activatedOn] => 2016-12-14 10:29:00
+            [facebookLink] => 
+            [myBlogger] => 
+            [twitterLink] => 
+            [youTubeUrl] => 
+            [forWebsite] => 2
+            [cityName] => Gambia
+            [city_id] => 3
+            [country_id] => 
+            [countryName] => 
+        )
+
+)
+
+SELECT uID  FROM `rave_userinfo` WHERE `emailID` LIKE '%chris%'
+
+######################
+
+509 	143 	0 	NULL	Stacey 	Stones 	Stacey.Stones.509 	lillymait13@gmail.com 	ZXCV23988683 
+143 Richard 	Sandi 	Richard.Sandi.143 	thenutribar@gmail.com 	ZXCV46960815 	0
+
+Shirley 
+Vivian 
+
+Glen
+
+
+####################
+http://communitytreasures.co/signup/importHundredDummyUser
+
+SELECT uID,firstName,lastName,emailID,password,count(*) as total_references FROM `rave_userinfo` GROUP BY referarID
+
+
+SELECT * FROM `rave_userinfo` WHERE `referarID` = 1 
+
+SELECT r2.uID,r1.referarID,r2.firstName,r2.lastName,r2.emailID,r2.password, count(*) as total_references FROM `rave_userinfo` r1,`rave_userinfo` r2 where r1.referarID=r2.uID GROUP BY r1.referarID 
+
+SELECT r1.referarID,r2.firstName,r2.lastName,r2.emailID,r2.password, count(*) as total_references FROM `rave_userinfo` r1,`rave_userinfo` r2 where r1.referarID=r2.uID GROUP BY r1.referarID 
+listofFounderInraveuser
+
+SELECT * FROM `rave_userinfo` WHERE `referarID` = 0 ORDER BY `referarID` ASC
+
+SELECT r1.referarID,r2.firstName,r2.lastName,r2.emailID,r2.password, count(*) as total_references 
+FROM `rave_userinfo` r1,`rave_userinfo` r2 where r1.referarID=r2.uID AND r1.`status` IN ('1', '2') GROUP BY r1.referarID 
+
+
+SELECT r1.referarID,r2.firstName,r2.lastName,r2.emailID,r2.password, count(*) as total_references 
+FROM `rave_userinfo` r1,`rave_userinfo` r2 where r1.referarID=r2.uID AND r1.`status` IN ('1', '2') GROUP BY r1.referarID 
+
+
+listofFounderInraveuser
+
+############################## 19-12-2016 #############3
+actaeae@gmail.com 	RAVE30853620
+smukalazi_1@yahoo.com 	ZXCV0176378
+Angelicfrancis2007@gmail.com 	ZXCV28957351
+
+SELECT uID,firstName,lastName,emailID,password FROM `rave_userinfo` where uId>=114 
+
+SELECT * FROM `crypto_payments` WHERE `txConfirmed` = 1 ORDER BY `txCheckDate` DESC 
+
+
+ISSUES:
+Email:
+    >           thelasthonestmarketer@gmail.com
+    >           Password:
+    >           ZXCV47442447
+
+#############################3
+curl -k https://communitytreasures.co/signup/cronRegistrationThroughBitcoin
+curl -k https://www.communitytreasures.co/signup/cronInvitationMailToAll
+
+
+
+
+
+##########
+http://communitytreasures.co/ctRaveshare/myaccount
+chap5062@gmail.com
+ZXCV26068648
+
+
+#########################   20-12-2016 ##################
+
+SELECT rave_userinfo.uID,rave_userinfo.firstName,rave_userinfo.lastName ,rave_userinfo.emailID,rave_userinfo.password,
+`user_raveshare_type`.`raveType`,`rave_share`.`userPosition` FROM (`rave_userinfo`) 
+LEFT JOIN `user_raveshare_type` ON `user_raveshare_type`.`user_id`=`rave_userinfo`.`uID` 
+LEFT JOIN `rave_share` ON `rave_share`.`user_id`=`rave_userinfo`.`uID` AND rave_share.status='1' 
+WHERE `rave_userinfo`.`status` IN ('1', '2') AND `rave_userinfo`.`afrooPaymentStatus`='1' 
+
+
+#####################
+ DATA INSERT PROCESS
+
+1. SELECT * FROM `userinfo` WHERE `emailID` LIKE 'chap5062@gmail.com' (117)
+2. 4118 $this->insertGeneralUserType($signupId,$user_general_type_name);
+SELECT * FROM `user_general_type` WHERE `user_id` = 117 
+117 	general
+
+3. 
+
+
+
+#####################  SYSTEM CHECKING (Bug fixing 20-12-2016) abi@aurasoftware.co.uk #########################
+SELECT * FROM `crypto_payments` WHERE `txConfirmed` = 1 AND orderID='0'  
+SELECT * FROM `userinfo` WHERE `emailID` LIKE 'smonne@gmail.com' 
+SELECT * FROM `rave_userinfo` WHERE `emailID` LIKE 'smonne@gmail.com' 
+
+
+15 chap5062@gmail.com
+18 thelasthonestmarketer@gmail.com
+28 smonne@gmail.com
+
+https://www.communitytreasures.co/dashboard
+
+
+Enter This Username & Password
+Email: 	chap5062@gmail.com
+Password: 	ZXCV26068648
+
+Enter This Username & Password
+Email: 	thelasthonestmarketer@gmail.com
+Password: 	ZXCV47442447
+
+Enter This Username & Password
+Email: 	smonne@gmail.com
+Password: 	ZXCV67791195
+
+
+<a style=\" background: #1b75bc none repeat scroll 0 0; border-radius: 5px;color: #fff; display: block; font-size: 20px;line-height: 50px; margin: 0 auto; text-align: center; text-decoration: none; width: 380px;\" href=\"http://communitytreasures.co\" target=\"_blank\">Click here to Login</a>
+###################   21-12-2016 #####################
+Hello Sir I would like to talk with you in english
+I would like to improve my commiunication skill but I have no such 
+opportuninity to improve my commiunication skill and 
+in this spectrum you can co-operate me a lots 
+
+SELECT rave_userinfo.uID,rave_userinfo.firstName,rave_userinfo.lastName ,rave_userinfo.emailID,rave_userinfo.password,`user_raveshare_type`.`raveType`,
+`rave_share`.`userPosition` FROM (`rave_userinfo`) 
+LEFT JOIN `user_raveshare_type` ON `user_raveshare_type`.`user_id`=`rave_userinfo`.`uID` 
+LEFT JOIN `rave_share` ON `rave_share`.`user_id`=`rave_userinfo`.`uID` AND rave_share.status='1' 
+WHERE `rave_userinfo`.`status` IN ('1', '2') AND `rave_userinfo`.`afrooPaymentStatus`='1' AND `user_raveshare_type`.`raveType`='Founder' 
+
+
+SELECT * FROM `crypto_payments` WHERE `txConfirmed` = 1 ORDER BY `paymentID` DESC 
+Showing rows 0 - 24 (102 total, Query took 0.0010 seconds.)
+
+######################## 
+Renata 	Miller 	Renata.Miller.1489 	renatazoemiller@gmail.com 	ZXCV23864103
+Helmich 	Renata 	Helmich.Renata.166 	helmich.renata@gmail.com 	ZXCV9956007
+
+
+
+################
+SELECT * FROM `rave_userinfo` WHERE `emailID` LIKE 'ctpayday@earthlink.net' 
+SELECT * FROM `user_raveshare_type` WHERE `user_id` IN (12,2431)
+UPDATE `ravebusi_livect`.`user_raveshare_type` SET `raveType` = 'Active' WHERE `user_raveshare_type`.`id` IN(127,128,115,129,130,131,132,133,135);
+
+####################
+https://elog.senabicentral.com/Login.aspx
+1384
+subhendudas
+nRwzyKm3
+
+#######
+<!--<p class="web"><a href="<?php echo base_url(); ?>allUserList" target="blank"><span> Active User List </span></a></p>
+    <p class="web"><a href="<?php echo base_url(); ?>allUserList/inviteesList" target="blank"><span>Get Invitees List </span></a></p>
+
+    <p class="web"><a href="<?php echo base_url(); ?>allUserList/userDetailsByPosition" target="blank"><span>Get Details By User Position </span></a></p>-->

@@ -1,0 +1,4 @@
+[12-Dec-2016 09:09:08 America/Denver] PHP Fatal error:  Call to undefined function run_sql() in /home3/ravebusi/public_html/communitytreasures/communityTreas2/bitcoinapi_php/cryptobox.newpayment.php on line 79
+[12-Dec-2016 09:09:11 America/Denver] PHP Fatal error:  Call to undefined function run_sql() in /home3/ravebusi/public_html/communitytreasures/communityTreas2/bitcoinapi_php/cryptobox.newpayment.php on line 79
+[13-Dec-2016 02:30:27 America/Denver] PHP Notice:  Undefined index: webdev_key in /home3/ravebusi/public_html/communitytreasures/communityTreas2/bitcoinapi_php/cryptobox.callback.php on line 82
+[13-Dec-2016 06:07:06 America/Denver] PHP Notice:  Undefined offset: 1 in /home3/ravebusi/public_html/communitytreasures/communityTreas2/bitcoinapi_php/cryptobox.callback.php on line 87
