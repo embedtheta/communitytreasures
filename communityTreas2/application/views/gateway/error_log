@@ -1,4 +1,0 @@
-[07-Nov-2016 07:56:31 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home3/ravebusi/public_html/communitytreasures/application/views/gateway/privacy-policy.php on line 7
-[07-Nov-2016 07:56:36 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home3/ravebusi/public_html/communitytreasures/application/views/gateway/privacy-policy.php on line 7
-[07-Nov-2016 07:56:46 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home3/ravebusi/public_html/communitytreasures/application/views/gateway/privacy-policy.php on line 7
-[07-Nov-2016 07:57:13 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home3/ravebusi/public_html/communitytreasures/application/views/gateway/privacy-policy.php on line 7

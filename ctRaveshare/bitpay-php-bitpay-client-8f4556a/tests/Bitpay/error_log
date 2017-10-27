@@ -1,1 +1,0 @@
-[02-Nov-2016 07:10:54 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home3/ravebusi/public_html/communitytreasures/ctRaveshare/bitpay-php-bitpay-client-8f4556a/tests/Bitpay/AccessTokenTest.php on line 10
